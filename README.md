@@ -1,5 +1,5 @@
 # 💫 About Me:
-## ⚒️ I’m currently working on<br>- Reverse Engineering real-world binaries<br>- Bug Hunting on HackerOne & Bugcrowd<br><br>## 🤝 I’m looking to collaborate on<br>- Security research projects<br>- Reverse engineering challenges<br>- Open-source tools related to web pentest<br><br>## 🆘 I’m looking for help with<br>- Advanced exploitation techniques<br>- Kernel-level reversing<br><br>## 🌱 I’m currently learning<br>- Advanced Web Exploitation (XSS, Access Control, Bypasses)<br>-  Reverse Engineering<br><br>## 💬 Ask me about<br>- Bug Hunting strategies<br>- Reverse Engineering<br>- CTF (Web / RE)<br><br>## ⚡ Fun fact<br>- I break things to understand them… then fix them stronger.<br>- I debug life the same way I debug binaries.
+## ⚒️ I’m currently working on<br>- Reverse Engineering real-world binaries<br>- Bug Hunting on HackerOne & Bugcrowd<br><br> 🤝 I’m looking to collaborate on<br>- Security research projects<br>- Reverse engineering challenges<br>- Open-source tools related to web pentest<br><br> 🆘 I’m looking for help with<br>- Advanced exploitation techniques<br>- Kernel-level reversing<br><br>🌱 I’m currently learning<br>- Advanced Web Exploitation (XSS, Access Control, Bypasses)<br>-  Reverse Engineering<br><br> 💬 Ask me about<br>- Bug Hunting strategies<br>- Reverse Engineering<br>- CTF (Web / RE)<br><br> ⚡ Fun fact<br>- I break things to understand them… then fix them stronger.<br>- I debug life the same way I debug binaries.
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=v3nn00m&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
